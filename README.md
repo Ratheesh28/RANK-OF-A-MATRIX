@@ -24,7 +24,8 @@ ans=np.linalg.matrix_rank(a)
 print(ans)
 ```
 ## Output!:
-[alt text](<Screenshot 2024-04-11 142942.png>)
+![alt text](<Screenshot 2024-04-11 142942.png>)
+
 
 
 ## Result:
